@@ -52,6 +52,7 @@ const AddFriend = () => {
          value={friendData.age} placeholder="Age"
          onChange={handleChange}
          />
+             <button>Add Friend</button>
 
      </form>
  )
