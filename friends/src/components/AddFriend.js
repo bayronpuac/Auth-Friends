@@ -57,4 +57,5 @@ const AddFriend = () => {
      </form>
  )
 }
+
 export default AddFriend;
